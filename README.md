@@ -1,2 +1,3 @@
-# Template
-General HOPE structure for R project
+# Fauna - Pollen interaction
+
+This is a n awesome project ! 
